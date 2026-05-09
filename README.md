@@ -92,9 +92,9 @@ AI-powered platform that extracts MCQs from documents using OCR and LLM pipeline
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-w-arch&show_icons=true&theme=tokyonight)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?user=alan-w-arch&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-w-arch&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=alan-w-arch&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alan-w-arch&theme=tokyonight)
 
