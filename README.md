@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Himanshu Saxena
 
-<!--
-**alan-w-arch/alan-w-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full Stack Developer
+- AI Enthusiast
+- Open Source Learner
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript
+- React
+- Node.js
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn
+- Portfolio
+- Twitter
