@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alan-w-arch)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshusaxena71333@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://www.himanshusaxena.me/)
 
 </div>
 
